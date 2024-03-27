@@ -1,0 +1,25 @@
+{
+  "name": "waves",
+  "version": "1.0.0",
+  "description": "",
+  "main": "waves-es6.js",
+  "dependencies": {
+    "three": "^0.162.0"
+  },
+  "devDependencies": {
+    "vite": "^5.2.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssupix/waves.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssupix/waves/issues"
+  },
+  "homepage": "https://github.com/ssupix/waves#readme"
+}
